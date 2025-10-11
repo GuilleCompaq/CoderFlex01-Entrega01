@@ -1,0 +1,17 @@
+.navbar-container {
+    background-color: royalblue;
+    padding: 2rem;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.a {
+    color: white;
+    text-decoration: none;
+    cursor:pointer;
+
+}
+.logo {
+    width: 2rem;
+
+}
