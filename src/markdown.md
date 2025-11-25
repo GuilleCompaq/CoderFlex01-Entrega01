@@ -7,4 +7,4 @@
 3. Tercer item
 
 [link] (https://github.com.com)
-![Logo] (/public/React.png)
+![Logo](/public/React.png)
