@@ -1,10 +1,19 @@
-const CarWidget = ()=> {
-    return (
-        <div>
-            <span>🛒</span>
-            <span style={{color:"white", background:"red"}}>5</span>
-        </div>
 
+import {Badge} from 'react-bootstrap'
+import { useContext } from "react";
+import { CartContext } from "../context/cartContext";
+
+const CartWidget = ()=>{
+    const {cartQuantity, cart}= useContext(CartContext)
+        console.log(cart)
+    return(
+        <>
+        <div>
+        <span>🛒</span>
+       {cart.length > 0 && <Badge pill bg="danger">{cartQuantity()}</Badge>}
+       </div>
+       </>
     )
 }
-export default CarWidget
+
+export default CartWidget

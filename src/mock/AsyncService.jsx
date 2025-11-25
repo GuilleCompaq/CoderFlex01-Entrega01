@@ -1,40 +1,40 @@
 const products = [
     {
         id: '01',
-        name: 'item1',
-        descripcion: 'algo del producto',
+        name: 'Notebook React 01V',
+        descripcion: 'tu color preferido para programar',
         stock: 25,
         price: 25000,
-        img: 'https://picsum.photos/200',
+        img: '../img/notebook_violeta_logo_led.png',
         category: 'nuevos',
 
 
     },
     {
         id: '02',
-        name: 'item2',
-        descripcion: 'algo del producto',
+        name: 'Notebook React 02G',
+        descripcion: 'tu color preferido para programar',
         stock: 10,
         price: 10000,
-        img: 'https://picsum.photos/201',
+        img: '../img/notebook_gris_logo_led.png',
         category: 'usados'
     },
     {
         id: '03',
-        name: 'item3',
-        descripcion: 'algo del producto',
+        name: 'Notebook React 03N',
+        descripcion: 'tu color preferido para programar',
         stock: 5,
         price: 5000,
-        img: 'https://picsum.photos/203',
+        img: '../img/notebook_negro_logo_led.png',
         category: 'mas_vendidos'
     },
     {
         id: '04',
-        name: 'item4',
-        descripcion: 'lorem ipsum',
+        name: 'Notebook React 04A',
+        descripcion: 'tu color preferido para programar',
         stock: 7,
         price: 7000,
-        img: 'https://picsum.photos/204',
+        img: '../img/notebook_azul_logo_led.png',
         category: 'usados'
     }
 
