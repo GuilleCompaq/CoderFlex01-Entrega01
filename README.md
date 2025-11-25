@@ -1,6 +1,6 @@
 # App Store de Notebook Marca React 🛒
-Esta wedApp, simula un tienda de compra de Notebooks.
-Realizado en el aprendizaje de react.
+Esta WedApp, simula una tienda de Notebooks.
+Realizada en el aprendizaje de react.
 
 ![imageApp](/public/react_app_store.png)
 
