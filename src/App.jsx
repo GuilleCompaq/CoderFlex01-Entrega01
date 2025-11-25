@@ -8,7 +8,7 @@ import ItemDetailContainer from "./components/ItemDetailContainer";
 //proveedor de contexto
 import { CartProvider } from "./context/cartContext";
 import CartContainer from "./components/CartContainer";
-import Checkout from "./components/checkout";
+//import Checkout from "./components/checkpoint";
 
 
 function App() {
