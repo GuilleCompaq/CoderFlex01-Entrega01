@@ -2,7 +2,7 @@
 Esta wedApp, simula un tienda de compra de Notebooks.
 Realizado en el aprendizaje de react.
 
-![imageApp](/public/img/react_app_store.png)
+![imageApp](/public/react_app_store.png)
 
 ### Instalacion:
 
